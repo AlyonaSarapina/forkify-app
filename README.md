@@ -2,4 +2,4 @@
 
 Recipe application with custom recipe uploads.
 
-[DEMO LINK](alyona-forkify-app.netlify.app)
+[DEMO LINK](https://alyona-forkify-app.netlify.app/)
